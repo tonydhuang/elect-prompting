@@ -1,6 +1,6 @@
 # ELECT-prompting
 
-This is the repository for paper "Can Large Language Models Be a Good Evaluator for Review-based Product Question Answering?" [https://dl.acm.org/doi/10.1145/3701716.3715586] @ WWW 2025
+This is the repository for paper ["Can Large Language Models Be a Good Evaluator for Review-based Product Question Answering?"](https://dl.acm.org/doi/10.1145/3701716.3715586) @ WWW 2025
 
 ## Citation
 
@@ -32,4 +32,4 @@ pip install -r requirements.txt
 
 ### Ollama
 
-Most of our experiments on the paper are running on Ollama3 (8b). Please download Ollama from their [offical website](https://ollama.com/download). 
+Most of our experiments are running on Ollama3 (8b). Please download Ollama from their [offical website](https://ollama.com/download). 
