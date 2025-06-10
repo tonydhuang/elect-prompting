@@ -25,6 +25,7 @@ If you used this repository or our method, please cite our work as follows. Than
 
 ## Setup
 
+#### Install required packages
 To run the code in this repo, you need to install the required packages by running the following command:
 ```
 pip install -r requirements.txt
