@@ -1,6 +1,6 @@
 # ELECT Prompting
 
-This is the repository for paper ["Can Large Language Models Be a Good Evaluator for Review-based Product Question Answering?"](https://dl.acm.org/doi/10.1145/3701716.3715586) @ WWW 2025
+This is the repository including code and data for our paper - ["Can Large Language Models Be a Good Evaluator for Review-based Product Question Answering?"](https://dl.acm.org/doi/10.1145/3701716.3715586) @ WWW 2025
 
 ## Citation
 
