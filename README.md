@@ -1,4 +1,4 @@
-# ELECT-prompting
+# ELECT Prompting
 
 This is the repository for paper ["Can Large Language Models Be a Good Evaluator for Review-based Product Question Answering?"](https://dl.acm.org/doi/10.1145/3701716.3715586) @ WWW 2025
 
@@ -30,6 +30,11 @@ To run the code in this repo, you need to install the required packages by runni
 pip install -r requirements.txt
 ```
 
-### Ollama
+#### Ollama
 
-Most of our experiments are running on Ollama3 (8b). Please download Ollama from their [offical website](https://ollama.com/download). 
+Ollama is a locally large language model runner, designed to allow users to download and execute LLMs. Ollama supports many popular large language models, such as multiple versions of Llama, Qwen, Gemma, DeepSeek and other models locally. Most of our experiments are running on Ollama. Please download Ollama from their [offical website](https://ollama.com/download).
+
+#### Version of LLMs used on our papper
+- Llama 3 [on Ollama](https://ollama.com/library/llama3)
+- Prometheus 2 [on Ollama](https://ollama.com/tensortemplar/prometheus2:7b-fp16)
+- GPT-4o (OpenAI API)
